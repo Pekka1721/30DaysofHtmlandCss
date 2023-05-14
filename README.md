@@ -5,4 +5,4 @@
   ![Design](https://github.com/Pekka1721/30DaysofHtmlandCss/blob/main/Instagram%20post/design.png)
 ## Day-2 Card
 - PlayGround Card
--![Design]()
+-![Design](https://github.com/Pekka1721/30DaysofHtmlandCss/blob/main/Playground%20Card/design.png)
