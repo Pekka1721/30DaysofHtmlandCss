@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap");
+
+body {
+	font-family:  'Arial Narrow', Arial, sans-serif;
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.felxcontainer{
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    margin:10% ;
+    border: 1px solid black;
+    gap: 30px;
+    border-radius: 20px;
+    background:linear-gradient(45deg, rgb(209, 238, 209), rgb(242, 242, 197)) ;
+    
+    
+    
+   
+}
+.image{
+   margin: 10%;
+   
+}
+.image svg{
+    width: 100px;
+    height: 100px;
+}
+.heading{
+    font-size: 40;
+    ;
+}
+.text{
+   
+    
+    display: inline-block;
+}
+.text p{
+    color: gray;
+    
+    font-size: medium;
+    font-weight: lighter
+}
+.people{
+    float: left;
+    
+     
+}
+.images{
+    margin-right: 10px;
+}
+.footer p{
+     color: gray;
+    
+}
