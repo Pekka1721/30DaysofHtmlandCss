@@ -2,4 +2,7 @@
 30 Projects of HTML and CSS challenges provided by codedamn 
 ## Day-1 Instagram Post 
   - A simple instagram post design 
-  ![Design]()
+  ![Design](https://github.com/Pekka1721/30DaysofHtmlandCss/blob/main/Instagram%20post/design.png)
+## Day-2 Card
+- PlayGround Card
+-![Design]()
