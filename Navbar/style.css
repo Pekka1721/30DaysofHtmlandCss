@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700;600;&display=swap");
+
+/* #18181b - NavBar Background Color */
+
+/* #a1a1aa - Text Color */
+
+/* Get Started Button Bg color - #5046e5 */
+
+body {
+	font-family: "Inter", sans-serif;
+    background-color: #18181b;
+    color: #a1a1aa;
+    
+}
+.hero{
+    
+     
+}
+.nav-bar{
+    display: flex;
+    font-weight: bold; 
+    line-height: 1.5;
+    justify-content: space-between;
+}
+.leftside{
+    list-style: none;
+    display: flex;
+    
+
+}
+.leftside svg{
+    height: 50px;
+    width: 50px;
+    
+}
+.leftside .brandname{
+    margin: 15px 10px;
+}
+.middle{
+    
+    list-style: none;
+    display: flex;
+    margin:30px 20px ;
+    
+}
+.middle li{
+    margin: 0 10px;
+}
+.middle li a{
+    text-decoration: none;
+    color:#a1a1aa ;
+}
+.end{
+    list-style-type: none;
+    display: flex;
+    margin: 30px ;
+}
+
+  button{
+    color:#a1a1aa;
+    font-size: medium;
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+}
+ .login{
+    background-color: #18181b;
+}
+.get{
+    background-color: #5046e5;
+}
+
