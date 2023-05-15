@@ -6,3 +6,6 @@
 ## Day-2 Card
 - PlayGround Card
 -![Design](https://github.com/Pekka1721/30DaysofHtmlandCss/blob/main/Playground%20Card/design.png)
+## Day-3 NavBar
+- Codedamn nav bar 
+![Design](https://github.com/Pekka1721/30DaysofHtmlandCss/blob/main/Navbar/design.png)
