@@ -1,0 +1,120 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700;600;&display=swap");
+
+body {
+	font-family: "Inter", sans-serif;
+    background: linear-gradient(10deg, #9FA4C4, #B3CDD1);
+    
+}
+
+h2 {
+	font-weight: 600;
+	font-family: "Inter", sans-serif;
+    text-align: center;
+}
+
+#title {
+	
+}
+.hero{
+    border-radius: 8px;
+    width: 500px;
+    margin: auto;
+    border:none;
+    background-color: white   
+}
+label{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:small;
+    font-weight: bold;
+    display: block;
+    margin: 5px 10% 5px;
+}
+#email{
+padding-top: 20px;
+}
+.fields{
+    font-size: large;
+    border-radius: 5px;
+    height: 50px;
+    margin: 8px 10% ;
+    width: 80%;
+    border: 1px solid grey;
+}
+.forgot{
+     font-size:small;
+    font-weight: bold;
+    display: flex;
+    margin: 8px 10% ;
+    width: 80%;
+    justify-content: space-between;
+}
+p a{
+    text-decoration: none;
+}
+#btn{
+    background-color: rgb(114, 114, 212);
+    cursor: pointer;
+    display: flex;
+    font-size: medium;
+    color: white;
+}
+#btn svg{
+    margin: 4px  34% 4px 10px;
+}
+#btn p{
+    margin: 15px 0px;
+    font-weight: bold;
+}
+.lines::before{
+content:" ";
+  display: block;
+  height: 1px;
+  width:130px; 
+  position: absolute;
+  top: 50%;
+  left: 50;
+  background: rgb(194, 187, 187);
+}
+.lines{
+    position: relative;
+    text-align: center;
+    color: rgb(22, 19, 19);
+}
+.lines::after{
+     content:" ";
+  height: 1px;
+  width: 130px;
+  background: rgb(194, 187, 187);
+  display: block;
+  position: absolute;
+  top: 50%;
+  right: 50;
+}
+.options{
+    margin:  8px 10% ;
+    display: flex;
+    justify-content: space-between;
+}
+.login-logos{
+    border-radius: 8px;
+    border: none;
+    width: 45%;
+    height: 50px;
+    cursor: pointer;
+    background-color: black;
+}
+.login-logos svg{
+    width:30px ;
+    color: wheat;
+}
+.hero  .account{
+    margin: 50px 20% 25px;
+}
+footer p{
+    margin: 0 10% 10px;
+    padding-bottom:20px ;
+    font-size: smaller;
+    
+    text-align: start;
+    color: rgb(94, 78, 78);
+}
